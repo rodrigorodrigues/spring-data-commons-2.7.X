@@ -22,11 +22,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * Builder assembling {@link Predicate} out of {@link PropertyValues}.
  *
- * @author Christoph Strobl
- * @author Oliver Gierke
- * @author Mark Paluch
- * @author Johannes Englmeier
- * @since 1.11
+ * @author Rodrigo Rodrigues
  */
 @FunctionalInterface
 public interface QuerydslPredicateBuilderCustomizer {
